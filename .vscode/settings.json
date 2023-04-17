@@ -1,0 +1,17 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "awseb-e-azuewb5zm5-stack-awsebrdsdatabase-inncm7lzvjc7.ct788pxvojta.eu-west-3.rds.amazonaws.com",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "Test",
+            "database": "ebdb",
+            "username": "admin",
+            "askForPassword": true
+        }
+    ]
+}
